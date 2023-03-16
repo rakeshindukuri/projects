@@ -1,0 +1,1 @@
+Kind of a playground for me where I explored multiple visualization methods to look and learn from data. Then explored various algorithms in Machine Learning to see how the effects are on training a model. Explored ANN with feature scaling too.
