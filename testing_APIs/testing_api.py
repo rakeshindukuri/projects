@@ -3,7 +3,7 @@ import random
 import re
 
 # Set up OpenAI API key
-openai.api_key = "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"  # Replace with your OpenAI API key
+openai.api_key = ""  # Replace with your OpenAI API key
 
 
 # Function to generate names using OpenAI's GPT-3
